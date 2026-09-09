@@ -1,3 +1,4 @@
+kinda filler graphics rn I’m sorry
 <p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=incubaby&label=familiars&labelColor=262626&countColor=black&style=flat-square">
 <p align="center"> <img src="https://i.ibb.co/q3HFnGTr/IMG-3804.jpg"width=420>
 <p align="center"> 
