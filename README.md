@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=incubaby&label=familiars&labelColor=553F2E&countColor=black&style=flat-square">
+<p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=incubaby&label=familiars&labelColor=553F2E&countColor=1C152A&style=flat-square">
 <p align="center"> <img src="https://i.ibb.co/gM11LBNS/IMG-4274.png"width=420>
 <div align="center">
   <table>
