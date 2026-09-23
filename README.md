@@ -7,5 +7,7 @@
 <a href="https://abaddon.atabook.org">新book</a>⠀⠀<a href="https://pronouns.cc/@banspace">prnscc</a>⠀⠀<a href="https://fluffle.cc/cutestspace">fluffle</a>
         
 </table>
+<p>   </p>
+<div align="left">
 <p> $\color{#73282C}{ponytowns}\$$ $\color{#73282C}{azazel}\$$ <a href="https://github.com/title-town">@title-town</a> $\color{#73282C}{+}\$$  <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
 <p> $\color{#73282C}{n1}\$$ $\color{#73282C}{subhammer}\$$ $\color{#73282C}{+}\$$ $\color{#73282C}{judain}\$$ $\color{#73282C}{shipper}\$$ <a href="https://github.com/ship-town">@ship-town</a>
