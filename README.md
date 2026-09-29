@@ -4,7 +4,7 @@
   <table>
     <tr>      
       <td>
-<a href="https://abaddon.atabook.org">新book</a>⠀⠀<a href="https://pronouns.cc/@banspace">prnscc</a>⠀⠀<a href="https://fluffle.cc/cutestspace">fluffle</a>
+<a href="https://abaddon.atabook.org">新book</a>⠀⠀<a href="https://pronouns.cc/@banspace">prnscc</a>⠀⠀<a href="https://fluffle.cc/tripmined">fluffle</a>
         
 </table>
 <p>   </p>
