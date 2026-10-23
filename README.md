@@ -18,5 +18,7 @@ feel free to whisper me ! I love making friends
  
  ${\textsf{\color{#4F5DAA}n1 subhammer n judain shipper}}$ <a href="https://github.com/ship-town">@ship-town</a>
 
+ ${\textsf{\color{#4F5DAA}i}}$ ${\textsf{\color{#AC3232}❤︎}}$ ${\textsf{\color{#4F5DAA}the channel n stalemate they’re me}}$ <a href="https://github.com/music-town">@music-town</a>
+
 </details>
 </div>
